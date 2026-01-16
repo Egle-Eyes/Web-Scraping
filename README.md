@@ -1,4 +1,1 @@
-"# Web-Scraping" 
-"# Web-Scraping" 
-"# Web-Scraping" 
-"# Web-Scraping" 
+This project demonstrates data collection and web scraping using Python, covering both static and dynamic web pages. It includes static scraping using requests and BeautifulSoup to extract job listings (job title, company, and location), filter Python-related roles, and export the results to CSV using pandas. It also showcases dynamic scraping with Selenium to handle JavaScript-rendered content by launching a headless browser, applying explicit waits, extracting quotes and authors, saving the data to CSV, and displaying it in a formatted table using tabulate. The project highlights key web scraping techniques such as HTML parsing, data filtering, structured storage, and automation, and is intended for educational and practical learning purposes using Python libraries including requests, BeautifulSoup, pandas, Selenium, and CSV handling.
